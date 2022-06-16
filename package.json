@@ -20,6 +20,7 @@
   "homepage": "https://github.com/CeciliaBPerdomo/Desafio10--LogIn#readme",
   "dependencies": {
     "child_process": "^1.0.2",
+    "cluster": "^0.7.7",
     "connect-mongo": "^4.6.0",
     "dotenv": "^16.0.1",
     "ejs": "^3.1.8",
